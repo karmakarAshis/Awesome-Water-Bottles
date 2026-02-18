@@ -87,21 +87,3 @@ The React Compiler is not enabled by default due to dev/build performance tradeo
 ## Deployment
 
 This app builds to static assets (via `npm run build`) and can be deployed to static hosts like Vercel, Netlify, GitHub Pages, or any CDN-backed static hosting.
-
-## Contributing
-
-Contributions are welcome. Open an issue or submit a pull request with small, focused changes. Update this README with any new scripts or structural changes you add.
-
-## License
-
-Add your project license here (e.g., MIT) or remove this section if not applicable.
-
----
-
-If you'd like, I can also:
-
-- Add a short `CONTRIBUTING.md` template
-- Add a license file
-- Convert this README to include badges and a demo GIF
-
-Let me know which you'd prefer.
